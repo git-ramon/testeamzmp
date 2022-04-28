@@ -1,0 +1,430 @@
+CRITICAL - 2022-04-27 00:20:40 --> Invalid file: login.php
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(5): view('login')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 00:20:54 --> Invalid file: login.php
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(5): view('login')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 00:20:56 --> Invalid file: login.php
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(5): view('login')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 00:20:57 --> Invalid file: login.php
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Common.php(1089): CodeIgniter\View\View->render('login', Array, true)
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(5): view('login')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 00:22:02 --> Invalid file: welcome_message.php
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcome_message...')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Home.php(9): view('welcome_message')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 00:44:33 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 00:56:09 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:08:49 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:08:53 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:10:18 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:13:09 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:18:47 --> Class "App\Controllers\UsuarioModel" not found
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#5 {main}
+CRITICAL - 2022-04-27 01:24:05 --> Call to undefined method App\Models\UsuarioModel::gethostbyname
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): CodeIgniter\Model->__call('gethostbyname', Array)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+ERROR - 2022-04-27 01:29:04 --> No database selected
+CRITICAL - 2022-04-27 01:29:04 --> Call to a member function getFirstRow() on bool
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Models\UsuarioModel.php(15): CodeIgniter\BaseModel->first()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('asfsf')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+ERROR - 2022-04-27 01:30:00 --> No database selected
+CRITICAL - 2022-04-27 01:30:00 --> Call to a member function getFirstRow() on bool
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Models\UsuarioModel.php(15): CodeIgniter\BaseModel->first()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('sfgsfg')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+ERROR - 2022-04-27 01:33:01 --> No database selected
+CRITICAL - 2022-04-27 01:33:01 --> Call to a member function getFirstRow() on bool
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Models\UsuarioModel.php(15): CodeIgniter\BaseModel->first()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('gsdgg')
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#8 {main}
+CRITICAL - 2022-04-27 01:47:56 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 01:58:25 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:07:19 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:07:29 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:08:32 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:16:24 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:22:28 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:24:33 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:26:17 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:33:02 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:38:23 --> Call to undefined method App\Models\UsuarioModel::Allfild
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Models\UsuarioModel.php(15): CodeIgniter\Model->__call('Allfild', Array)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('admin')
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#7 {main}
+CRITICAL - 2022-04-27 02:38:29 --> Call to undefined method App\Models\UsuarioModel::Allfild
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Models\UsuarioModel.php(15): CodeIgniter\Model->__call('Allfild', Array)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('admin')
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#7 {main}
+CRITICAL - 2022-04-27 02:39:45 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:40:21 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:40:43 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:40:50 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 02:41:34 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 20:34:30 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 20:34:37 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:28:40 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:29:28 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:31:20 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:34:44 --> Undefined array key "senha"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:36:36 --> Too few arguments to function App\Models\UsuarioModel::getByname(), 1 passed in C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php on line 15 and exactly 2 expected
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(15): App\Models\UsuarioModel->getByname('teste')
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:42:15 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:43:24 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:43:58 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:51:31 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:51:41 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 22:58:13 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 17)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:00:13 --> Call to undefined method App\Models\UsuarioModel::getBysenha
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(16): CodeIgniter\Model->__call('getBysenha', Array)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:04:35 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 19)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:04:50 --> Undefined array key "password"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 19)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:11:32 --> Undefined array key "inputpassword"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 19)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:12:02 --> Undefined array key "inputname"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 19)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
+CRITICAL - 2022-04-27 23:12:22 --> Undefined array key "inputname"
+#0 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\app\Controllers\Login.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\Users\\Usuari...', 19)
+#1 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(832): App\Controllers\Login->signin()
+#2 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\Users\Usuario\Desktop\Ramon\Projetos\Teste-amzmp\teste-amzmp\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\Usuari...')
+#6 {main}
